@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CyberBionic_JavaPro_09_Lambda_homework.iml" filepath="$PROJECT_DIR$/CyberBionic_JavaPro_09_Lambda_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task_02/task_02.iml" filepath="$PROJECT_DIR$/task_02/task_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task_03/task_03.iml" filepath="$PROJECT_DIR$/task_03/task_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task_04/task_04.iml" filepath="$PROJECT_DIR$/task_04/task_04.iml" />
     </modules>
   </component>
 </project>
